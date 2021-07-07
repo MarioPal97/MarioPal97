@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there, welcome to my GitHub! 👋
 
-<!--
-**MarioPal97/MarioPal97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I am Student at California State University, Sacramento currently pursuing a Bachelor's Degree in Computer Engineering and Minor in Mathematics with an expected graduation date of December 2021. My current career aspirations revolve around Software Development and Embedded Programming. <br></br>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning more about Automation: <a>https://github.com/danielgonzalez3/CPE190</a>
+- 🥅 2021 Goals: Learn more about Embedded Programming
+- ⚡ Fun fact: I enjoy going out to eat and watch movies! 
+
+# TECH STACK
+  ### Programming Languages [Recent]
+      🤖 C++
+      🐍 Python3
+      🦾 Java
+      
+  ### Knowledge and Skills:
+      ● Languages: C++, Java, Python, PowerShell, C, Verilog, SystemVerilog, VHDL, x86 Assembly
+      ● Frameworks: AngularJS, SpringBoot, Ansible, TestNG
+
+### Connect with me:
+
+
+
+[linkedin]: 
