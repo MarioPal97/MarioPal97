@@ -5,7 +5,7 @@
 
 - 🌱 Currently learning more about Automation.
 - 🥅 2021 Goals: Learn more about Embedded Programming.
-- ⚡ Fun fact: I enjoy going out to eat and watch movies! 
+- ⚡ Fun fact: I enjoy going out to eat and watching movies! 
 
 ## TECH STACK
   ### Programming Languages [Recent]
