@@ -18,4 +18,4 @@
       ● Frameworks: AngularJS, SpringBoot, Ansible, TestNG
 
 ### Connect with me:
-[linkedin]: https://www.linkedin.com/in/mariopal97/
+linkedin: [Me] [https://www.linkedin.com/in/mariopal97/]
