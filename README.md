@@ -17,5 +17,10 @@
       ● Languages: C, Java, Python, PowerShell, Verilog, SystemVerilog, VHDL, x86 Assembly
       ● Frameworks: AngularJS, SpringBoot, Ansible, TestNG
 
+
+<p align="left"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=MarioPal97&show_icons=true&theme=monokai&count_private=true" <p align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioPal97&theme=merko&layout=compact&hide_langs_below=1" /></p>
+
 ### Connect with me:
-linkedin: [Me] [https://www.linkedin.com/in/mariopal97/]
+<a href="https://www.linkedin.com/in/danielgonzalez19/" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/in.png" alt="LinkedIn" width="60"></a>
+
+[linkedin]: https://www.linkedin.com/in/mariopal97/
