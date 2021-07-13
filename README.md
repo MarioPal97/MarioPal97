@@ -17,6 +17,7 @@
       ● Languages: C, Java, Python, PowerShell, Verilog, SystemVerilog, VHDL, x86 Assembly
       ● Frameworks: AngularJS, SpringBoot, Ansible, TestNG
 
+<br></br>
 
 <p align="left"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=MarioPal97&show_icons=true&theme=onedark&count_private=true" <p align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioPal97&theme=onedark&layout=compact&hide_langs_below=8" /></p>
 
