@@ -1,13 +1,13 @@
-### Welcome to my GitHub!
+# Welcome to my GitHub!
 
-## I am Student at California State University, Sacramento currently pursuing a Bachelor's Degree in Computer Engineering and Minor in Mathematics with an expected graduation date of December 2021. My current career aspirations revolve around Software Development and Embedded Programming. <br></br>
+### I am Student at California State University, Sacramento currently pursuing a Bachelor's Degree in Computer Engineering and Minor in Mathematics with an expected graduation date of December 2021. My current career aspirations revolve around Software Development and Embedded Programming. <br></br>
 
 
 - 🌱 Currently learning more about Automation.
 - 🥅 2021 Goals: Learn more about Embedded Programming.
 - ⚡ Fun fact: I enjoy going out to eat and watch movies! 
 
-# TECH STACK
+## TECH STACK
   ### Programming Languages [Recent]
       🤖 C
       🐍 Python3
