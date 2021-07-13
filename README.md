@@ -14,9 +14,9 @@
       🦾 Java
       
   ### Knowledge and Skills:
-      ● Languages: C, Java, Python, PowerShell, C, Verilog, SystemVerilog, VHDL, x86 Assembly
+      ● Languages: C, Java, Python, PowerShell, Verilog, SystemVerilog, VHDL, x86 Assembly
       ● Frameworks: AngularJS, SpringBoot, Ansible, TestNG
 
 ### Connect with me:
 
-[linkedin]: 
+[linkedin]: https://www.linkedin.com/in/mariopal97/
