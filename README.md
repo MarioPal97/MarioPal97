@@ -19,7 +19,7 @@
 
 <br></br>
 
-<p align="left"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=MarioPal97&show_icons=true&theme=onedark&count_private=true" <p align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioPal97&theme=onedark&layout=compact&hide_langs_below=0.1" /></p>
+<p align="left"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=MarioPal97&show_icons=true&theme=onedark&count_private=true" <p align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioPal97&theme=onedark&layout=compact" /></p>
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/mariopal97/" target="_blank"><img src="https://github.com/MarioPal97/MarioPal97/blob/main/LI-Logo.png" alt="LinkedIn" width="100"></a>
